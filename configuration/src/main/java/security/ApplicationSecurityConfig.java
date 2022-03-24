@@ -18,8 +18,6 @@ import javax.servlet.Filter;
 import javax.sql.DataSource;
 
 @EnableWebSecurity
-@EnableGlobalMethodSecurity(prePostEnabled = true)
-@Configuration
 public class ApplicationSecurityConfig extends WebSecurityConfigurerAdapter {
 
 

@@ -1,4 +1,4 @@
-package api.errorHandling;
+package webAdapter.errorHandling;
 
 import application.exceptions.ClassroomDoesNotExistException;
 import application.exceptions.StudentDoesNotExistException;

@@ -1,0 +1,16 @@
+application\dtos\StudentDTO.class
+application\dtos\WeatherDTO$WeatherForecastDTO.class
+application\dtos\AllocationDTO.class
+application\portOut\ClassroomDAO.class
+application\portOut\StudentDAO.class
+application\dtos\WeatherDTO.class
+application\service\ReadRoomsService.class
+application\portIN\addNewStudentUseCase.class
+application\dtos\ClassroomDTO.class
+application\portIN\ReadUseCases.class
+application\aop\LoggerAdvice.class
+application\exceptions\StudentDoesNotExistException.class
+application\portIN\addAllocationStudentUseCase.class
+application\service\addNewStudentService.class
+application\service\AddAllocationStudentService.class
+application\exceptions\ClassroomDoesNotExistException.class

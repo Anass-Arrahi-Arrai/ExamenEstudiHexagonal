@@ -1,3 +1,5 @@
+package persistanceAdapter;
+
 import application.dtos.ClassroomDTO;
 import application.exceptions.ClassroomDoesNotExistException;
 import org.simpleflatmapper.jdbc.spring.JdbcTemplateMapperFactory;

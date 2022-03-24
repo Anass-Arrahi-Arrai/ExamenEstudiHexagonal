@@ -1,0 +1,5 @@
+webAdapter\errorHandling\ErrorValidationHandlingAdvice$Violation.class
+webAdapter\errorHandling\ErrorValidationHandlingAdvice$ValidationErrorResponse.class
+webAdapter\errorHandling\ExceptionHandlingAdvice.class
+webAdapter\errorHandling\ErrorValidationHandlingAdvice.class
+webAdapter\roomsRESTController.class

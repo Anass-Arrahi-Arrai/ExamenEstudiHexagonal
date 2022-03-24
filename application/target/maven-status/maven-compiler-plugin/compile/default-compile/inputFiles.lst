@@ -1,0 +1,15 @@
+C:\TecnoCampus\3r any\2n Trimestre\DSI\ExamenEstudiHexagonal\application\src\main\java\application\dtos\AllocationDTO.java
+C:\TecnoCampus\3r any\2n Trimestre\DSI\ExamenEstudiHexagonal\application\src\main\java\application\portIN\addAllocationStudentUseCase.java
+C:\TecnoCampus\3r any\2n Trimestre\DSI\ExamenEstudiHexagonal\application\src\main\java\application\portIN\addNewStudentUseCase.java
+C:\TecnoCampus\3r any\2n Trimestre\DSI\ExamenEstudiHexagonal\application\src\main\java\application\service\ReadRoomsService.java
+C:\TecnoCampus\3r any\2n Trimestre\DSI\ExamenEstudiHexagonal\application\src\main\java\application\dtos\WeatherDTO.java
+C:\TecnoCampus\3r any\2n Trimestre\DSI\ExamenEstudiHexagonal\application\src\main\java\application\portOut\ClassroomDAO.java
+C:\TecnoCampus\3r any\2n Trimestre\DSI\ExamenEstudiHexagonal\application\src\main\java\application\exceptions\StudentDoesNotExistException.java
+C:\TecnoCampus\3r any\2n Trimestre\DSI\ExamenEstudiHexagonal\application\src\main\java\application\exceptions\ClassroomDoesNotExistException.java
+C:\TecnoCampus\3r any\2n Trimestre\DSI\ExamenEstudiHexagonal\application\src\main\java\application\dtos\StudentDTO.java
+C:\TecnoCampus\3r any\2n Trimestre\DSI\ExamenEstudiHexagonal\application\src\main\java\application\portIN\ReadUseCases.java
+C:\TecnoCampus\3r any\2n Trimestre\DSI\ExamenEstudiHexagonal\application\src\main\java\application\aop\LoggerAdvice.java
+C:\TecnoCampus\3r any\2n Trimestre\DSI\ExamenEstudiHexagonal\application\src\main\java\application\dtos\ClassroomDTO.java
+C:\TecnoCampus\3r any\2n Trimestre\DSI\ExamenEstudiHexagonal\application\src\main\java\application\service\AddAllocationStudentService.java
+C:\TecnoCampus\3r any\2n Trimestre\DSI\ExamenEstudiHexagonal\application\src\main\java\application\portOut\StudentDAO.java
+C:\TecnoCampus\3r any\2n Trimestre\DSI\ExamenEstudiHexagonal\application\src\main\java\application\service\addNewStudentService.java

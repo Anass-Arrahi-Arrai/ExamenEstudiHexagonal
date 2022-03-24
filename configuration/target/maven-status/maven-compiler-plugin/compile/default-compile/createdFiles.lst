@@ -1,0 +1,8 @@
+security\jwt\UsernameAndPasswordAuthenticationRequest.class
+security\ApplicationSecurityConfig.class
+security\PasswordEncoderConfig.class
+security\jwt\JwtConfig.class
+configuration\security\RestTemplateConfiguration.class
+security\jwt\JwtUsernamePasswordAuthenticationFilter.class
+security\jwt\JwtTokenVerifierFilter.class
+security\CorsConfig.class

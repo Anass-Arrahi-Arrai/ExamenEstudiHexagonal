@@ -1,0 +1,6 @@
+domain\exceptions\ClassroomOccupiedException.class
+domain\Allocation.class
+domain\Classroom.class
+domain\exceptions\StudentAlreadyAllocatedException.class
+domain\Classroom$ClassroomBuilder.class
+domain\Student.class

@@ -1,7 +1,7 @@
 package domain;
 
-import cat.tecnocampus.rooms.domain.exceptions.ClassroomOccupiedException;
-import cat.tecnocampus.rooms.domain.exceptions.StudentAlreadyAllocatedException;
+import domain.exceptions.ClassroomOccupiedException;
+import domain.exceptions.StudentAlreadyAllocatedException;
 
 import java.time.DayOfWeek;
 import java.util.ArrayList;

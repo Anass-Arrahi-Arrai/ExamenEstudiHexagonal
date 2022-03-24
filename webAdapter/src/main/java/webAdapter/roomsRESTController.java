@@ -1,4 +1,4 @@
-package api;
+package webAdapter;
 
 import application.dtos.ClassroomDTO;
 import application.dtos.StudentDTO;
