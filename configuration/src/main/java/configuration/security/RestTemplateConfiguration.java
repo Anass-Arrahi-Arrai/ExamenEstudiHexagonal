@@ -4,7 +4,7 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 import org.springframework.context.annotation.ComponentScan;
 
 @SpringBootApplication
-@ComponentScan(basePackages = {"application", "persistanceAdapter", "webAdapter", "configuration.security"})
+@ComponentScan(basePackages = {"application", "persistanceAdapter", "webAdapter", "configuration.security","domain"})
 public class RestTemplateConfiguration {
 
     public static void main(String[] args) {
